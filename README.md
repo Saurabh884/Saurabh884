@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
 <p> Thanks Thanks for visiting my GitHub profile, it's great to meet you here! 😊</p>
+<p> Here are some quick things about me:</p>
+<p> 🔭 I'm a Full Stack Web Developer who is paranoid about convention, consistency, and constraints. </p>
+<p> 🧸 I'm proud of who I am, what I have built, and what I am building. </p>
+<p> 🧑‍💻 Coding is my passion. </p>
+<p> 📫 The best way to reach me is to send me an email.</p>
+
+
+
 <img align = "right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh884&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh884" /> </p>
