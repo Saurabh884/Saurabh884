@@ -5,8 +5,9 @@
 <p> 🔭 I'm a Full Stack Web Developer who is paranoid about convention, consistency, and constraints. </p>
 <p> 🧸 I'm proud of who I am, what I have built, and what I am building. </p>
 <p> 🧑‍💻 Coding is my passion. </p>
-<p> 📫 The best way to reach me is to send me an email.</p>
 <p> :flight_departure: I like travelling and making new friends. </p>
+<p> 📫 The best way to reach me is to send me an email.</p>
+
 
 
 
