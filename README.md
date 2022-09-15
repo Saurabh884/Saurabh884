@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
-<p> Thanks Thanks for visiting my GitHub profile, it's great to meet you here! 😊</p>
+<p>Thanks for visiting my GitHub profile, it's great to meet you here! 😊</p>
 <p> Here are some quick things about me:</p>
 <p> 🔭 I'm a Full Stack Web Developer who is paranoid about convention, consistency, and constraints. </p>
 <p> 🧸 I'm proud of who I am, what I have built, and what I am building. </p>
