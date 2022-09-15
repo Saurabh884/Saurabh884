@@ -15,9 +15,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh884" alt="saurabh884" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://saurabhkumar-portfolio.netlify.app/"> Portfolio </a> [https://saurabhkumar-portfolio.netlify.app/]()
+- 👨‍💻 All of my projects are available at <a href="https://saurabhkumar-portfolio.netlify.app/"> Portfolio </a>
 
 - 📫 How to reach me **saurabh.vicky1995@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/my-drive"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
