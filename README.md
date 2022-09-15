@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **saurabh.vicky1995@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1sYikNt5wlVagm5-ftuwXPYHuvkMS1CQz/view)"> Resume </a>
+- 📄 Know about my experiences <a href="(https://drive.google.com/file/d/1sYikNt5wlVagm5-ftuwXPYHuvkMS1CQz/view)"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
