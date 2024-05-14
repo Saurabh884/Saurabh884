@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **saurabh.vicky1995@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/home"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1r2J6t2XglEJwlREZhDQGxImtK29M2CtJ/view?usp=sharing"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
