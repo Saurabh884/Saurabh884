@@ -19,8 +19,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://saurabhkumar-portfolio.netlify.app/"> Portfolio </a>
 
-- 📫 How to reach me **saurabh.vicky1995@gmail.com**
-
+- 📫 How to reach me <a href="saurabh.vicky1995@gmail.com">Email</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1r2J6t2XglEJwlREZhDQGxImtK29M2CtJ/view?usp=sharing"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
