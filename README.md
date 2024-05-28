@@ -17,10 +17,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh884" alt="saurabh884" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://saurabhkumar-portfolio.netlify.app/"> Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://saurabhkumar-portfolio.netlify.app/" target="_blank> Portfolio </a>
 
-- 📫 How to reach me <a href="saurabh.vicky1995@gmail.com">Email</a>
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1r2J6t2XglEJwlREZhDQGxImtK29M2CtJ/view?usp=sharing"> Resume </a>
+- 📫 How to reach me <a href="saurabh.vicky1995@gmail.com" target="_blank>Email</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1r2J6t2XglEJwlREZhDQGxImtK29M2CtJ/view?usp=sharing" target="_blank> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
